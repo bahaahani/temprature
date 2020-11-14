@@ -30,8 +30,7 @@ public class converter {
         }
         else
         System.out.println("invalid");
-
-
+        
 
 
 
